@@ -1,1 +1,2 @@
 Esta es el archivo nuevo de COMMIT
+ <1> Este es el primer cambio para el ejecricio de commit git>
