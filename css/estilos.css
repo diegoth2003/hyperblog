@@ -4,5 +4,7 @@ font-family: Arial, Helvetica, sans-serif;
  }
 
  h1 { color: purple;}
+
+ #container { width:70%; padding:1em; margin: auto; border-color: #000; border-radius: 20px; border:solid 5px}
  .grilla { background-color: light-gray; color:red;}
  .lista { text-align: left; text-decoration: dotted; color:rgb(17, 44, 35); }
